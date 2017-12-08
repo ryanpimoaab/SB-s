@@ -6,9 +6,6 @@ corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
 diagnostics.support.microsoft.com
-elecommand.telemetry.microsoft.com
-elecommand.telemetry.microsoft.com.nsatc.net
-elemetry.urs.microsoft.com
 feedback.search.microsoft.com
 feedback.windows.com
 i1.services.social.microsoft.com
@@ -27,6 +24,9 @@ ssw.live.com
 statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
 survey.watson.microsoft.com
+elecommand.telemetry.microsoft.com
+elecommand.telemetry.microsoft.com.nsatc.net
+elemetry.urs.microsoft.com
 vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 vortex-sandbox.data.microsoft.com
